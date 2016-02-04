@@ -1,11 +1,3 @@
-# Dokumentista
-
-Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on karkea vaatimusmäärittelydokumentin runko, jota voi käyttää projektien vaatimusmäärittelyn pohjana. Rakennetta saa ja pitää muokata! Tavoitteena on luoda dokumentti, joka yhdistää palvelumuotoilun ja ohjelmistosuunnittelun saumattomasti yhteen. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
-
-tv:NarsuMan
-
-
-
 ## XXXXXX-palvelun/ohjelmiston vaatimusmäärittely
 
 Dokumentin versionumero X.Y
@@ -17,7 +9,9 @@ Salattu/Julkinen
 ### Oikeudet
 
 Kuka omistaa dokumentin?
-
+Elias "Elvis" Wirtanen
+Niko "seeeya" Walkonen
+Kalle "KAKEPLZ" Otollinen 
 
 
 ## Sisältö
