@@ -9,9 +9,9 @@ Salattu/Julkinen
 ### Oikeudet
 
 Kuka omistaa dokumentin?
-Elias "Elvis" Wirtanen
-Niko "seeeya" Walkonen
-Kalle "KAKEPLZ" Otollinen 
+* Elias "Elvis" Wirtanen
+* Niko "seeeya" Walkonen
+* Kalle "KAKEPLZ" Otollinen 
 
 
 ## Sisältö
