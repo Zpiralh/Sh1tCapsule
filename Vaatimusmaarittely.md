@@ -104,11 +104,13 @@ Tunnistetut asiakasprofiilit
 
 ## Yleinen palvelun asiakaspolku (General Customer Journey)
 
-![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
+# Asiakaspolkuja
 
-Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
-
-  *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
+ * [Asiakaspolku 1](https://camo.githubusercontent.com/5fab99752a5ab2744a158b7b26181016bcf87751/687474703a2f2f73747564656e742e6c616272616e65742e6a616d6b2e66692f2537454b323534332f7375756e6e697474656c752f6a616d7070615f626c75657072696e74746572696e6a6f2e706e67)
+  
+ * [Asiakaspolku 2](https://camo.githubusercontent.com/4d278b41d3a10034b67997900e95b3f3ecaabe1c/687474703a2f2f73747564656e742e6c616272616e65742e6a616d6b2e66692f25374548393537362f4e616d756e617070692532302d2532304e6577253230506167652e706e67)
+ 
+ * [Asiakaspolku 3](https://camo.githubusercontent.com/599f8eae439209a801b1c0fde2056c1f11803ea0/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f35636565323031342d353364392d346434362d393630312d3735383166643965613863652f696d6167652e706e67)
 
 
 ## Palvelun osa-aluejako (Service Domain areas)
