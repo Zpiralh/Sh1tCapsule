@@ -1,45 +1,51 @@
 ## XXXXXX-palvelun/ohjelmiston vaatimusmäärittely
 
-Dokumentin versionumero X.Y
+Dokumentin versionumero 1.0
 
 ### Materiaalin luokittelu
 
-Salattu/Julkinen
+Julkinen
 
 ### Oikeudet
 
-Kuka omistaa dokumentin?
-* Elias "Elvis" Wirtanen
-* Niko "seeeya" Walkonen
-* Kalle "KAKEPLZ" Otollinen 
+ShitCapsule Oy
+
+
+## PetCapsule-palvelun/ohjelmiston vaatimusmäärittely
+
+Dokumentin versionumero 0.1
+
+### Materiaalin luokittelu
+
+Julkinen
+
+### Oikeudet
+
+ShitCapsule Oy
+
 
 
 ## Sisältö
 
-Sisällysluettelo ?
+--
 
 
 ## Johdatus
 
-  * Mikä on tämän dokumentin tehtävä? 
-  * Mihin se liittyy ? 
-  * Tärkeätä tietää
-  * Oleellista lukijalle ?
+* Dokumentin tehtävänä on esitellä uusi innovatiivinen laite eläimelle ja omistajalle. 
+
 
 ### Lyhyt tuote/palvelukuvaus/asiakastarina
 
-  * Mitä määritetyltä palvelulta odotetaan? lyhyesti
-  * Asiakastarina
-
+  * Tuotteen odotetaan mullistavan eläimenhoidon maailman! Se toimii silloin kun omistaja on poissa eläimen luolta.
+  * Kalervo Pulsu, 72, lähti partioleirille. Hänen koiransa jäi vesikauhuisena kotiin nuolemaan näppejänsä. Kalervoa jäi ahdistamaan koiransa kohtalo mutta onneksi hän oli viime viikolla ostanut ShitCapsulen ja ladannut smarthhhphoneensa ShitApin. ShitApin kautta Kalervo päätti ottaa vidyapuhelun koiruliinsa ja antoi pari namulia sille. Kalervo Pulsu, 72, on siis onnellinen miekkonen=)
 ### Tilaaja
 
-  * Kuka on tilaaja, yhteistiedot ?
-  * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
+  * Jarno AKA NarsuMan
 
 ### Toimittaja
 
-  * Kuka on toimittaja, yhteistiedot ?
-  * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
+  * Sh1tCapsule
 
 ### Aikataulu
 
@@ -60,41 +66,44 @@ Sisällysluettelo ?
 
 * https://en.wikipedia.org/wiki/Stakeholder_analysis
 * [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
-* Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
+* Kiinnostuneita ovat kaikki, jotka jättävät eläimensä yksin kotiin usein!
 
 Sidosryhmät (esimerkkejä)
 
-* [Linkki sidosryhmän omaan sivuun]()
-* Mungo consulting Oy, Palvelun tarjoaja
-* RahoittajaA, yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
-* RahoittajaB, Yrityksen osakas, Mauri Bosse, omistaa 5 %
-* TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
-* SuurAsiakasA, NordMan Oy, yritysasiakas
-* SuurAsiakasB, Bill Cates Ikkunatehdas, yritysasiakas
-* Bad Man, kiusantekijä
-* Snake Consulting Oy, kilpailija
+* [Linkki sidosryhmän omaan sivuun](https://github.com/Zpiralh/Sh1tCapsule/wiki/Sidosryhm%C3%A4)
+* PissCapsule Oy, Kilpailija
+
 
 Tunnistetut asiakasprofiilit 
 
 ## Asiakasprofiilit (Customer Profiles)
 
-Esimerkkejä! korvatkaa
+  * Asiakas 1, Jarno Purnu, 23, tradenomi, Muurame, Jyväskylä (Jätemies)
+  * Asiakas 2, Olga Tammimäki, 36, opiskelija, Petäjävesi, (Artesaani)
+  * Asiakas 3, Simo Selin, 55, erityisasiantuntija, ShitCity (Mies Paikallaan)
+  * Asiakas 4, Matias Moilanen, ??, hanttihomma mies, Sillan alla, (Bestiality)
+  * Asiakas 5, Maija Laatikka, 34, tilapalvelu asiantuntija, Jyväskylä (Nainen)
+  * Asiakas 6, Kalervo Pulsu, 72, eläkeläinen, ?? (Metsämies)
+  * Asiakas 7, Mauri "Sad Frog" L****n, 29, opiskelija, MemeFoorumeilla (Cuck beta)
+  * Asiakas 8, Jamppa K. Ukka, 41, myrkytetty mies, ?? (Myrkkymies)
+  * Asiakas 9, Eliisa Avanto, 85, eläkeläinen, ?? (Eläinrakastaja)
 
-  * Asiakas 1, Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja)
-  * Asiakas 2, Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land 
-  * Asiakas 3, Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea)
-  * Asiakas 4, John Rambu, 55, tuntematon, Helsinki, (Bad Man)
+## Linkit
 
-Voi olla toisaalta järkevää luoda oma sivu jokaiselle asiakasprofiileille..
-
-  * [Linkki asiakasprofiiliin 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
-  * [Linkki asiakasprofiiliin 2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
-  * [Linkki asiakasprofiiliin 3](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
+  * [Linkki asiakasprofiiliin 1](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-1)
+  * [Linkki asiakasprofiiliin 2](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-2)
+  * [Linkki asiakasprofiiliin 3](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-3)
+  * [Linkki asiakasprofiiliin 4](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-4)
+  * [Linkki asiakasprofiiliin 5](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-5)
+  * [Linkki asiakasprofiiliin 6](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-6)
+  * [Linkki asiakasprofiiliin 7](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-7)
+  * [Linkki asiakasprofiiliin 8](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-8)
+  * [Linkki asiakasprofiiliin 9](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-9)
 
 
 ## Sidosryhmäkartta (Stakeholder map)
 
-![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+![](http://student.labranet.jamk.fi/~K3297/Sidosryhma.png)
 
 ## Yleinen palvelun asiakaspolku (General Customer Journey)
 
@@ -150,33 +159,43 @@ ohjelmiston osa-alueita/lohkoja?
   * Mitä ovat oleelliset ominaiduudet ?
   * [Tsekkaa MVP - Minimum Viable Product Features](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
-### Ominaisuus 1
+### Ominaisuus 1 Nightvision kamerassa
 
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Testauksessa huomioitavaa
+  * NÄKEÄÄ PIMEÄSSÄKIN ELUKKANSA.
+  * NIGHTVISION GOGGLESIT
+  * USKOMATON UI NÄKYMÄ
+  * VOI TESTATA LAITTAMALLA VALOT KIINNI
+  * BOOM!
 
-### Ominaisuus 2
+### Ominaisuus 2 NAMUNAPPI
 
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Testauksessa huomioitavaa
+  * NAMUA LENTÄÄ PUTKESTA KUN NAPPIA PAINAA
+  * NAMUNAPPI VAATII PALJON NAMUJA SEKÄ MASSIA OSTAA NIITÄ
+  * IIIISO PUINAINEN NAPPI JOSSA LUKEE NAMUJA
+  * VOI TEHDÄ ELÄIMESTÄ YLIPAINOISEN
 
-### Ominaisuus 3
+### Ominaisuus 3 ILMANRAIKASTIN NAPPI
+* VAIN SAATAVANA LISÄLAITTEEN KANSSA
+* RAIKASTAA ELÄIMEN ULOSTEEN JA VIRTSAN HAJUN ERITTÄIN TEHOKKAASTI NÄIN TEHOKASTA ILMANRAIKASTINTA EI OLE MUILLA.
+* PAINETAAN NAPPIA SHITAPPISSÄ JOKA AKTIVOI ILMANRAIKASTIMEN SHITCAPSULEN SISÄLLÄ
+* TARVITSEE VALITTAVISSA OLEVAN HAJUN.
+* ERITTÄIN HELPOSTI SAATAVISSA SHITAPPISSA
+* TESTAUKSESSA HUOMIOITAVA SE ETTÄ VOI AIHEUTTAA TESTIVAIHEESSA HAJUHAITTOJA
 
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Prototyyppi näkymä?
-  * Testauksessa huomioitavaa
 
-### Ominaisuus 4
+### Ominaisuus 4 VIDEOPUHELUSSA KAMERAN KÄÄNTÄMINEN
 
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
+  * KAMERA KÄÄNTYY HALUTTUUN SUUNTAAN 
+  * PUHELIN, KAMERASSA KÄÄNTYVÄ ALUSTA
+  * UI-NÄKYMÄ MELKEIN TÄYDELLINEN
+  * JEP
+  * HUOMIOITAVAA TESTAUKSESSA KAMERAN KÄÄNTYVÄN ALUSTAN ÖLJYT JA PURKALLA KIINNITYS
+
+### Ominaisuus 5 RANKASUKOPPI
+
+  * RANKAISEE ELUKKAA KUN SE TOIMII VÄÄRIN
+  * VEITSI
+  * VÄKIVALTAINEN UI NÄKYMÄ
   * Prototyyppi näkymä?
   * Testauksessa huomioitavaa
 
@@ -221,9 +240,9 @@ ohjelmiston osa-alueita/lohkoja?
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|YVA0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Tekninen | "ASAP"-tuotantotiimi | P1 |
-|YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P2 |
-|YVA0003| Palvelun täytyy toimia Windows 95:ssa, koska johtajalla on moinen koneessaan! | totetuts |  "ASAP"-tuotantotiimi | P5 |
+|YVA0001| Palvelun täytyy toimia jokaisessa Androidin versiossa | Tekninen | "ASAP"-tuotantotiimi | Ulla | P5 | 
+|YVA0002| Palvelun täytyy toimia Windows Phonessa | toteutus |  "ASAP"-tuotantotiimi | Simo |  P5 | 
+|YVA0003| Nikke Kage tahtoo että palvelu toimii hänen mikroaaltouunillaan | toteutus |  "ASAP"-tuotantotiimi | Markku |  P1 |
 
 ## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
 
