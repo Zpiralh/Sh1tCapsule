@@ -23,22 +23,19 @@ Julkinen
 
 ShitCapsule Oy
 
-
-
 ## Sisältö
 
 --
-
 
 ## Johdatus
 
 * Dokumentin tehtävänä on esitellä uusi innovatiivinen laite eläimelle ja omistajalle. 
 
-
 ### Lyhyt tuote/palvelukuvaus/asiakastarina
 
   * Tuotteen odotetaan mullistavan eläimenhoidon maailman! Se toimii silloin kun omistaja on poissa eläimen luolta.
-  * Kalervo Pulsu, 72, lähti partioleirille. Hänen koiransa jäi vesikauhuisena kotiin nuolemaan näppejänsä. Kalervoa jäi ahdistamaan koiransa kohtalo mutta onneksi hän oli viime viikolla ostanut ShitCapsulen ja ladannut smarthhhphoneensa ShitApin. ShitApin kautta Kalervo päätti ottaa vidyapuhelun koiruliinsa ja antoi pari namulia sille. Kalervo Pulsu, 72, on siis onnellinen miekkonen=)
+  * Kalervo Pulsu, 72, lähti partioleirille. Hänen koiransa jäi vesikauhuisena kotiin nuolemaan näppejänsä. Kalervoa jäi ahdistamaan koiransa kohtalo mutta onneksi hän oli viime viikolla ostanut ShitCapsulen ja ladannut älypuhelimeensa ShitAppin. ShitApin kautta Kalervo päätti ottaa videapuhelun koiruliinsa ja antoi pari namulia sille. Kalervo Pulsu, 72, on siis onnellinen miekkonen=)
+
 ### Tilaaja
 
   * Jarno AKA NarsuMan
