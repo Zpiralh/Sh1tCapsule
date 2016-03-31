@@ -135,7 +135,7 @@ ohjelmiston osa-alueita/lohkoja?
 
   * Tarkennetaan kuvausta tehtävän mukaisesti ?
 
-### Asiakaspolku käytöönotto [asiakasprofiili_1] näkökulmasta
+### Asiakaspolku käytöönotto [Asiakasprofiili 1](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-1) näkökulmasta
 
 * lorem ipsum
 * Blue Print-kuva ?
