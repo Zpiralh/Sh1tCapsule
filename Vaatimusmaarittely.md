@@ -21,7 +21,7 @@ ShitCapsule Oy
 ### Lyhyt tuote/palvelukuvaus/asiakastarina
 
   * Tuotteen odotetaan mullistavan eläimenhoidon maailman! Se toimii silloin kun omistaja on poissa eläimen luolta.
-  * Kalervo Pulsu, 72, lähti partioleirille. Hänen koiransa jäi vesikauhuisena kotiin nuolemaan näppejänsä. Kalervoa jäi ahdistamaan koiransa kohtalo mutta onneksi hän oli viime viikolla ostanut ShitCapsulen ja ladannut älypuhelimeensa ShitAppin. ShitApin kautta Kalervo päätti ottaa videapuhelun koiruliinsa ja antoi pari namulia sille. Kalervo Pulsu, 72, on siis onnellinen miekkonen=)
+  * Kalervo Pulsu, 72, lähti partioleirille. Hän koiransa kotiin, koska tämä oli kipeänä. Kalervoa jäi ahdistamaan koiransa tila,mutta onneksi hän oli viime viikolla ostanut ShitCapsulen ja ladannut älypuhelimeensa ShitAppin. ShitAppin kautta Kalervo päätti ottaa videopuhelun koiraansa ja antoi tälle muutaman namun. Kalervo Pulsu, 72, on tyytyväinen ostokseensa.
 
 ### Tilaaja
 
