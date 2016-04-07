@@ -46,9 +46,6 @@ ShitCapsule Oy
 
 ### Aikataulu
 
-  * Mitä alustavasti tullaan tekemään ja milloin ?
-  * Kannattaa viedä osaksi projektisuunnitelmaa ?
-
 | Etappi | Alkaa | Loppuu | | | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 | Profiiliasiakastapaamiset | 1.2.2017 | 12.2.2017 |  | P3 |
@@ -61,15 +58,12 @@ ShitCapsule Oy
 
 ### Sidosryhmät (Stakeholders)
 
-* https://en.wikipedia.org/wiki/Stakeholder_analysis
-* [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
 * Kiinnostuneita ovat kaikki, jotka jättävät eläimensä yksin kotiin usein!
 
-Sidosryhmät (esimerkkejä)
+Sidosryhmät
 
-* [Linkki sidosryhmän omaan sivuun](https://github.com/Zpiralh/Sh1tCapsule/wiki/Sidosryhm%C3%A4)
+* [Sidosryhmän sivu](https://github.com/Zpiralh/Sh1tCapsule/wiki/Sidosryhm%C3%A4)
 * PissCapsule Oy, Kilpailija
-
 
 Tunnistetut asiakasprofiilit 
 
@@ -115,41 +109,22 @@ Tunnistetut asiakasprofiilit
 
 ## Palvelun osa-aluejako (Service Domain areas)
 
-Millaisiin osa-alueiseiin voidaan ohjelmisto/palvelu voidaan jakaa.
+Palvelusta on saatavilla mobiili- ja web-versiot.
 
-Onko olemassa erilaisia tuoteversioita eri ympäristöihin, mitä?
-
-  * Työpöytäversio ?
-  * Mobiiliversio ?
-  * Kenttäversio  
-
-ohjelmiston osa-alueita/lohkoja?
-
-  * Hallintapaneeli ?
-  * Tietokanta-palvelut ?
-  * Käyttöliittymät ?
-  * Autentikointi ?
-  * Laskutus ?
 
 ## Tärkeimmät asiakaspolut (Customer Journey Maps) valituiden asiakasprofiilien näkökulmasta
 
-  * Tarkennetaan kuvausta tehtävän mukaisesti ?
+### Asiakaspolku tuotteen käyttöönotto [Jamppa K. Ukan](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-8) näkökulmasta
 
-### Asiakaspolku Namujenanto [Asiakasprofiili 1](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-1) näkökulmasta
+![](http://student.labranet.jamk.fi/~K2543/suunnittelu/jamppa_blueprintterinjo.png)
 
-* lorem ipsum
-* Blue Print-kuva ?
+### Asiakaspolku namujen antamiseen älypuhelimen avulla, profiilina [Jarmo Purnu](https://github.com/Zpiralh/Sh1tCapsule/wiki/Profiili-1) näkökulmasta
 
+![](http://student.labranet.jamk.fi/~H9576/Namunappi%20-%20New%20Page%281%29.png)
 
-### Asiakaspolku tuotteen takuukorjaus [asiakasprofiili_2] näkökulmasta
+### Asiakaspolku ShitCapsulen valvomiseen [Jarmo Purnun] näkökulmasta
 
-* lorem ipsum
-* Blue Print-kuva ?
-
-### Asiakaspolku tuotten uudelleenasennus [asiakasprofiili_3] näkökulmasta
-
-* lorem ipsum
-* Blue Print-kuva ?
+![](https://www.lucidchart.com/publicSegments/view/5cee2014-53d9-4d46-9601-7581fd9ea8ce/image.png)
 
 
 ## Tärkeimmät piirteet/ominaisuudet (Features)
