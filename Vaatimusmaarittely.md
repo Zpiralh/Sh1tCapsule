@@ -171,8 +171,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | - | P1 |
-|VAT0002| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | - | Toiminnnallinen | "ASAP"-tuotantotiimi | P3 |
+|VAT0002| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen | "ASAP"-tuotantotiimi |  | P3 |
 |VAT0003| Namunapin äänimerkki ei ole liian kova ääninen | Tekninen | "ASAP"-tuotantotiimi | Elias | P3 |
 |VAT0004| ShitApp ei saa kuluttaa akkua liikaa | Tekninen | "ASAP"-tuotantotiimi | Elias | P2 |
 |VAT0005| ShitApp sovelluksen täytyy pystyä lataamaan jokaisessa maassa | Toteutus | "ASAP"-tuotantotiimi | Elias | P3 |
