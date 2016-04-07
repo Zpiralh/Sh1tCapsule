@@ -10,9 +10,6 @@ Julkinen
 
 ShitCapsule Oy
 
-## Sisältö
-
---
 
 ## Johdatus
 
