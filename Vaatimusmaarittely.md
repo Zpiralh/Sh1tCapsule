@@ -190,31 +190,8 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
    * FluidUI:n rajoitusten takia voi prototyypistä tarkastella vain ilmanraikastus-ominaisuutta
    * Prototyypistä näkyy kuitenkin miten suurin piirtein tablet-versio toimii
 
-### Luokkaehdokkaat (Class proposal)
-
- 
-### Luokkamalli (Class Diagram)
-
-### Toiminta kuvaus (Sequence Diagram)
-
-### Sijoittelunäkymä (Deployment diagram
-
-## Riskiperustainen esi-testaussuunnitelma
-
-### Tunnistetut riskit ja testikohtee
-
-  * Riski -> Testaustarve
-  * Vaatimus -> Testaustarve
-
-##  Julkaisusuunnitelma ja priorisointi
+##  Julkaisusuunnitelma
 
 Toiminnallisuudet ja toteuttamisjärjestys
 
 Tarkkaa aikataulua ei olla määritelty, mutta kaikki wikissä määritellyt ominaisuudet (Ominaisuuskuvaus 01-09) tulee saada 80% toiminnallisiksi ennen kun voidaan aloittaa betatestausta.
-
-### Priorisointi 
-
-  * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
-## Standardit
-
