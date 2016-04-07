@@ -1,17 +1,4 @@
-## XXXXXX-palvelun/ohjelmiston vaatimusmäärittely
-
-Dokumentin versionumero 1.0
-
-### Materiaalin luokittelu
-
-Julkinen
-
-### Oikeudet
-
-ShitCapsule Oy
-
-
-## PetCapsule-palvelun/ohjelmiston vaatimusmäärittely
+## ShitCapsule-palvelun/ohjelmiston vaatimusmäärittely
 
 Dokumentin versionumero 0.1
 
