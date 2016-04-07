@@ -141,8 +141,8 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|RISK001| Käyttäjämäärän äkillinen lisääntyminen, esim poikkeustilanteen aikana | - | - | - | P1 |
-|RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen | - | - | P5 |
+|RISK001| Laitteen mahdollinen ylikuumeminen on huomioitava | Toiminnallinen | - | - | P1 |
+|RISK002| Laite on sijoitettu siten että laitteen ilmanotto- ja poistoaukot eivät ole tukossa | Toiminnnallinen | - | - | P5 |
 |RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | - | P3 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
@@ -153,17 +153,38 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|YVA0001| Palvelun täytyy toimia jokaisessa Androidin versiossa | Tekninen | "ASAP"-tuotantotiimi | - | P5 | 
-|YVA0002| Palvelun täytyy toimia Windows Phonessa | Toteutus |  "ASAP"-tuotantotiimi | - |  P5 | 
-|YVA0003| Nikke Kage tahtoo että palvelu toimii hänen mikroaaltouunillaan | Toteutus |  "ASAP"-tuotantotiimi | - |  P1 |
+|YVA0001| Laite on kytkettynä internettiin | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 | 
+|YVA0002| Laite on kytkettynä verkkovirtaan | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 | 
+|YVA0003| Laitteen päällä ei tule olla mitään | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0004| Laitteessa käytetään vain siihen suunniteltuja lisälaitteita | Toteutus | "ASAP"-tuotantotiimi | Niko |  P2 |
+|YVA0005| Laitteen hallintaa voi käyttää 24 tuntia vuorokaudessa | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0006| ShitAppin on oltava helppokäyttöinen | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0007| ShitCapsulen hallintapaneelin on sovelluttava kaikenikäisille | Toteutus | "ASAP"-tuotantotiimi | Niko |  P2 |
+|YVA0008| ShitCapsulen virhetilanteissa ShitCapsulea on käytettävä vain merkkihuollossa | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0009| ShitCapsulen sijoituspaikan on noudatettava paloturvallisuusmääräyksiä | Toteutus | "ASAP"-tuotantotiimi | Niko |  P3 |
+|YVA0010| ShitCapsulea on säilytettävä huoneenlämmössä | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0011| Palvelussa on mahdollisuus tunnustautua pankkitunnuksella | Toteutus | "ASAP"-tuotantotiimi | Niko |  P2 |
+|YVA0012| Palveluun on mahdollisuus tunnustautua mobiilivarmenteella | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0013| Palveluun on oltava mahdollisuus vaihtaa salasana | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0014| Palvelussa on oltava mahdollisuus palauttaa unohtunut salasana | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0015| Palvelussa on oltava mahdollisuus palauttaa unohtunut käyttäjätunnus | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0016| Laite on asennettu pakkausselosteessa olevien ohjeiden mukaisesti | Toteutus | "ASAP"-tuotantotiimi | Niko |  P1 |
+|YVA0017| Ruokakupin anturien tulee havaita mahdolliset ulkoiset muuttujat ja lukea ne pois ShitAppissä näkyvästä datasta | Toteutus | "ASAP"-tuotantotiimi | Jaakko |  P2 |
+|YVA0018| ShitAppin tulee ilmoittaa jos ruokakuppi on liian tyhjä | Toteutus | "ASAP"-tuotantotiimi | Jaakko |  P1 |
+|YVA0019| ShitAppin tulee ilmoittaa jos vesikuppi on liian tyhjä | Toteutus | "ASAP"-tuotantotiimi | Jaakko |  P1 |
+|YVA0020| ShitAppin tulee ilmoittaa jos vessalaatikko on liian likainen | Toteutus | "ASAP"-tuotantotiimi | Jaakko |  P1 |
 
 ## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | - | P1 |
-|VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | - | P5 |
-|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | - | Toiminnnallinen | "ASAP"-tuotantotiimi | P3 |
+|VAT0002| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | - | Toiminnnallinen | "ASAP"-tuotantotiimi | P3 |
+|VAT0003| Namunapin äänimerkki ei ole liian kova ääninen | Tekninen | "ASAP"-tuotantotiimi | Elias | P3 |
+|VAT0004| ShitApp ei saa kuluttaa akkua liikaa | Tekninen | "ASAP"-tuotantotiimi | Elias | P2 |
+|VAT0005| ShitApp sovelluksen täytyy pystyä lataamaan jokaisessa maassa | Toteutus | "ASAP"-tuotantotiimi | Elias | P3 |
+|VAT0006| ShitAppistä täytyy olla tietokoneelle ladattava versio | Tekninen | "ASAP"-tuotantotiimi | Elias | P2 |
+|VAT0007| Ilmoituksen tulee olla teksti- tai ääni-ilmoitus riippuen mikä anturin tila on (alhainen = ääni-ilmoitus, korkea = teksti-ilmoitus) | Toteutus | "ASAP"-tuotantotiimi | Jaakko |  P1 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
@@ -171,9 +192,9 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAL0201| Palvelun pitää skaalatua hetkellisesti 1000 käyttäjälle | Skaalautuvuus | "ASAP"-tuotantotiimi | - | P1 |
-|VAL0202| Palvelun saatavuus on oltava 99.1 % | Stabiilisuus |  "ASAP"-tuotantotiimi | - | P5 |
-|VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | - | P3 |
+|VAL0001| ShitCapsule täytyy saada eri väreillä | Toteutus | "ASAP"-tuotantotiimi | Elias | P3 |
+|VAT0002| ShitAppiä pyritään parantamaan palautteen avulla | Tekninen | "ASAP"-tuotantotiimi | Elias | P1 |
+|VAT0003| ShitAppiä päivitetään ja huolletaan useasti vuoden aikana | Tekninen | "ASAP"-tuotantotiimi | Elias | P4 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
