@@ -151,14 +151,6 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
    * [Salasanan vaihto](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
 
-### Käyttötapaus 3
-
-   * [Esimerkki4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
-
-### Käyttötapaus 4
-
-   * [Esimerkki4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
-
 ## Riskit  (Risks)
 
    * Tunnistetaan ohjelmistoon/palveluun liittyviä riskejä..
