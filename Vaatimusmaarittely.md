@@ -141,7 +141,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Tärkeimmät käyttötapaukset kuvana
 
-[](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
+![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
 
 ### Käyttötapaus 1
 
