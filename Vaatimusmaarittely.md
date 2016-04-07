@@ -197,42 +197,22 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Käytettävyys
 
-  * Mitä on otettava huomioon ?
-  * Asiakkaan toiveet ?
-  * Teknologiset osa-alueet/asiat, jotka vaikuttavat käytettävyyteen?
+  * Helppokäyttöisyys prioriteettina
+  * Web-version ja puhelinversion tulee tarjota samanlainen käyttäjäkokemus
 
 # Käyttöliittymä prototyyppi
-
-
 
 ### Prototyypin esittely
 
    * [Linkki prototyyppiin](https://www.fluidui.com/editor/live/preview/p_mermmfK7TpszvF520NBLksgCPGBMgDZN.1460032900853)
-   * Tarvittavat tiedot prototyypin tarkasteluun
-
-
-## Palvelun/ohjelmiston arkkitehtuuri
-
-  * Tämä osio voidaan sisällyttää osaksi teknistä suunnittelua. 
-  * Vaatimusmäärittelyssä voi kuitenkin olla  hyvä tarvittaessa kuvata yleistä totetutusta ja siihen liittyviä ongelmakohtia
-  
-
-![](https://camo.githubusercontent.com/5c169deb4debb278bb6219208f577843075ddab3/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6179707170797376726831316133312f636f6e747269626f6172642d6172636869746563747572652e706e673f646c3d31)
-
-   * [Esimerkki elävästä elämästä](https://confluence.csc.fi/display/OPHPALV/Koodistopalvelun+tekninen+dokumentaatio)
-
-
-
+   * FluidUI:n rajoitusten takia voi prototyypistä tarkastella vain ilmanraikastus-ominaisuutta
+   * Prototyypistä näkyy kuitenkin miten suurin piirtein tablet-versio toimii
 
 ### Luokkaehdokkaat (Class proposal)
 
   * Yleensä osa tarkempaa suunnittelua
   * Voidaan viitata linkeillä...
-
-  * Tunnistetut luokkaehdokkaat
-
-![](https://www.lucidchart.com/publicSegments/view/16b2b5a7-f349-48bf-8efb-594521131e09/image.png)
-
+ 
 ### Luokkamalli (Class Diagram)
 
   * Ainoastaan karkea kuvaus tarpeen ?
@@ -242,8 +222,6 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 ### Toiminta kuvaus (Sequence Diagram)
 
   * Sekvenssikuvalla on aika kätevä esittää muutakin
-
-![](https://en.wikipedia.org/wiki/File:CheckEmail.svg)
 
 ### Sijoittelunäkymä (Deployment diagram
 
@@ -264,23 +242,16 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ##  Julkaisusuunnitelma ja priorisointi
 
-Julkaisujärjestys ei aina ole lineaarinen. [Ks. Kriittinen polku](https://fi.wikipedia.org/wiki/Kriittinen_polku)
-Joskus se saattaa tuntua siltä: [Release Plan](https://wiki.documentfoundation.org/ReleasePlan)
-
-
 Toiminnallisuudet ja toteuttamisjärjestys
 
   * Ominaisuus 1 - Maaliskuu 2019
   * Ominaisuus 3 - Huhtikuu 2019
   * Ominaisuus 5 - Toukokuu 2019
-  * Ominaisuus 2 - Syyskuu 2019
-  *     
-
+  * Ominaisuus 2 - Syyskuu 2019  
 
 ### Priorisointi 
 
-
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
+  * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 
 ## Standardit ja lähteet
@@ -288,11 +259,3 @@ Toiminnallisuudet ja toteuttamisjärjestys
   * ISTQB
   * IPMA
   * etc..
-
-
-
-# Lähteet
-
-# Lähteitä
-
-  * https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
