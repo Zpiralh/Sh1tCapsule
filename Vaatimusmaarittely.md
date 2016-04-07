@@ -145,16 +145,17 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Käyttötapaus 1
 
-   * [Rekisteröityminen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
+   * [Namujen antaminen](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-04:-Namunappi)
 
 ### Käyttötapaus 2
 
-   * [Salasanan vaihto](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
+   * [Valvonta](https://github.com/Zpiralh/Sh1tCapsule/wiki/USE-CASE-JAAKKO)
+
+### Käyttötapaus 3
+
+   * [Ylläpito](https://github.com/Zpiralh/Sh1tCapsule/wiki/USE-CASE-NIKO)
 
 ## Riskit  (Risks)
-
-   * Tunnistetaan ohjelmistoon/palveluun liittyviä riskejä..
-   * [Riskienhallinta](https://fi.wikipedia.org/wiki/Riskienhallinta)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -162,7 +163,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 |RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen |  | P5 |
 |RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | P3 |
 
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
+  * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 ## Yleiset vaatimukset (Functional Requirements)
 
@@ -182,12 +183,9 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 |VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
 |VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
 
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
+  * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 ## Tunnistetut laadulliset /ei-toiminnalliset vaatimukset (Non-Functional Requirements)
-
-  * [Esimerkkejä tietoturvavaatimuksista](https://confluence.csc.fi/display/oppija/10.+Tietoturvavaatimukset)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -195,7 +193,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 |VAL0202| Palvelun saatavuus on oltava 99.1 % | Stabiilisuus |  "ASAP"-tuotantotiimi | P5 |
 |VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | P3 |
 
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
+  * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 ### Käytettävyys
 
@@ -204,6 +202,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
   * Teknologiset osa-alueet/asiat, jotka vaikuttavat käytettävyyteen?
 
 # Käyttöliittymä prototyyppi
+
 
 
 ### Prototyypin esittely
