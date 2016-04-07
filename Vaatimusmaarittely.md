@@ -217,13 +217,6 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Sijoittelunäkymä (Deployment diagram
 
-  * Vaatimusmäärittelyssä tämä saattaa olla yksi hyödyllisimpiä UML-kuvauksia ?
-  * Miten ohjelmisto/palvelu tulee karkeasti toimimaan osana vanhaa totetutusta..
-  * Miten olemassa oleva järjestelmä tulee karkeasti toimimaan
-
-![](https://www.lucidchart.com/publicSegments/view/6f727a36-f880-4dca-b5ac-133f6f860697/image.png)
-
-
 ## Riskiperustainen esi-testaussuunnitelma
 
 ### Tunnistetut riskit ja testikohtee
@@ -231,23 +224,15 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
   * Riski -> Testaustarve
   * Vaatimus -> Testaustarve
 
-
 ##  Julkaisusuunnitelma ja priorisointi
 
 Toiminnallisuudet ja toteuttamisjärjestys
 
-  * Ominaisuus 1 - Maaliskuu 2019
-  * Ominaisuus 3 - Huhtikuu 2019
-  * Ominaisuus 5 - Toukokuu 2019
-  * Ominaisuus 2 - Syyskuu 2019  
+Tarkkaa aikataulua ei olla määritelty, mutta kaikki wikissä määritellyt ominaisuudet (Ominaisuuskuvaus 01-09) tulee saada 80% toiminnallisiksi ennen kun voidaan aloittaa betatestausta.
 
 ### Priorisointi 
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
+## Standardit
 
-## Standardit ja lähteet
-
-  * ISTQB
-  * IPMA
-  * etc..
