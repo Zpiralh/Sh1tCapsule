@@ -46,12 +46,7 @@ ShitCapsule Oy
 
 ### Aikataulu
 
-| Etappi | Alkaa | Loppuu | | | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Profiiliasiakastapaamiset | 1.2.2017 | 12.2.2017 |  | P3 |
-| Sidosryhmä tapaaminen | 13.2.2017 | |  | P4 |
-| Esi-katselmointi | 25.2.2017 | |  | P1 |
-| Vaatimusmäärittely luovutetaan | 28.2.2017 | 12.2.2017 |  | P1 |
+Tarkkaa aikataulua ei olla määritelty
 
 ## Palvelun/ohjelmiston tunnistetut sidosryhmät ja asiakkaat (Stakeholders and customers) 
 
@@ -159,9 +154,9 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|RISK001| Käyttäjämäärän äkillinen lisääntyminen, esim poikkeustilanteen aikana | - | P1 |
-|RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen | - | P5 |
-|RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | P3 |
+|RISK001| Käyttäjämäärän äkillinen lisääntyminen, esim poikkeustilanteen aikana | - | - | - | P1 |
+|RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen | - | - | P5 |
+|RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | - | P3 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
@@ -172,8 +167,8 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |YVA0001| Palvelun täytyy toimia jokaisessa Androidin versiossa | Tekninen | "ASAP"-tuotantotiimi | - | P5 | 
-|YVA0002| Palvelun täytyy toimia Windows Phonessa | toteutus |  "ASAP"-tuotantotiimi | - |  P5 | 
-|YVA0003| Nikke Kage tahtoo että palvelu toimii hänen mikroaaltouunillaan | toteutus |  "ASAP"-tuotantotiimi | - |  P1 |
+|YVA0002| Palvelun täytyy toimia Windows Phonessa | Toteutus |  "ASAP"-tuotantotiimi | - |  P5 | 
+|YVA0003| Nikke Kage tahtoo että palvelu toimii hänen mikroaaltouunillaan | Toteutus |  "ASAP"-tuotantotiimi | - |  P1 |
 
 ## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
 
@@ -181,7 +176,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | - | P1 |
 |VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | - | P5 |
-|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen | - | "ASAP"-tuotantotiimi | P3 |
+|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | - | Toiminnnallinen | "ASAP"-tuotantotiimi | P3 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
