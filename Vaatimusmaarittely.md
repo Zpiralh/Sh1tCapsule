@@ -207,7 +207,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Prototyypin esittely
 
-   * Linkit prototyyppi ympäristöön
+   * [Linkki prototyyppiin](https://www.fluidui.com/editor/live/preview/p_mermmfK7TpszvF520NBLksgCPGBMgDZN.1460032900853)
    * Tarvittavat tiedot prototyypin tarkasteluun
 
 
