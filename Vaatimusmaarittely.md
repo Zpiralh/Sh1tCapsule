@@ -129,49 +129,25 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ## Tärkeimmät piirteet/ominaisuudet (Features)
 
-  * Kirjataan tärkeimmät ominaisuudet
-  * Mitä ovat oleelliset ominaiduudet ?
-  * [Tsekkaa MVP - Minimum Viable Product Features](https://en.wikipedia.org/wiki/Minimum_viable_product)
+### Ominaisuus 1: Juomakupin veden vaihtaja
 
-### Ominaisuus 1 Nightvision kamerassa
+![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-02:-Juomakupin-veden-vaihtaja)
 
-  * NÄKEÄÄ PIMEÄSSÄKIN ELUKKANSA.
-  * NIGHTVISION GOGGLESIT
-  * USKOMATON UI NÄKYMÄ
-  * VOI TESTATA LAITTAMALLA VALOT KIINNI
-  * BOOM!
+### Ominaisuus 2: Namunappi
 
-### Ominaisuus 2 NAMUNAPPI
+![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-04:-Namunappi)
 
-  * NAMUA LENTÄÄ PUTKESTA KUN NAPPIA PAINAA
-  * NAMUNAPPI VAATII PALJON NAMUJA SEKÄ MASSIA OSTAA NIITÄ
-  * IIIISO PUINAINEN NAPPI JOSSA LUKEE NAMUJA
-  * VOI TEHDÄ ELÄIMESTÄ YLIPAINOISEN
+### Ominaisuus 3: Capsulen valvonta
 
-### Ominaisuus 3 ILMANRAIKASTIN NAPPI
-* VAIN SAATAVANA LISÄLAITTEEN KANSSA
-* RAIKASTAA ELÄIMEN ULOSTEEN JA VIRTSAN HAJUN ERITTÄIN TEHOKKAASTI NÄIN TEHOKASTA ILMANRAIKASTINTA EI OLE MUILLA.
-* PAINETAAN NAPPIA SHITAPPISSÄ JOKA AKTIVOI ILMANRAIKASTIMEN SHITCAPSULEN SISÄLLÄ
-* TARVITSEE VALITTAVISSA OLEVAN HAJUN.
-* ERITTÄIN HELPOSTI SAATAVISSA SHITAPPISSA
-* TESTAUKSESSA HUOMIOITAVA SE ETTÄ VOI AIHEUTTAA TESTIVAIHEESSA HAJUHAITTOJA
+![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-07:-Valvonta)
 
+### Ominaisuus 4: ShitAppin taustatoiminta
 
-### Ominaisuus 4 VIDEOPUHELUSSA KAMERAN KÄÄNTÄMINEN
+![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-09:-Taustatoiminta)
 
-  * KAMERA KÄÄNTYY HALUTTUUN SUUNTAAN 
-  * PUHELIN, KAMERASSA KÄÄNTYVÄ ALUSTA
-  * UI-NÄKYMÄ MELKEIN TÄYDELLINEN
-  * JEP
-  * HUOMIOITAVAA TESTAUKSESSA KAMERAN KÄÄNTYVÄN ALUSTAN ÖLJYT JA PURKALLA KIINNITYS
+### Ominaisuus 5: Lemmikin hyvinvointivalvonta
 
-### Ominaisuus 5 RANKASUKOPPI
-
-  * RANKAISEE ELUKKAA KUN SE TOIMII VÄÄRIN
-  * VEITSI
-  * VÄKIVALTAINEN UI NÄKYMÄ
-  * Prototyyppi näkymä?
-  * Testauksessa huomioitavaa
+![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-08:-Lemmikin-hyvinvointivalvonta)
 
 ## Käyttötapaukset
 
