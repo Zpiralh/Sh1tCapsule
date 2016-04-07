@@ -160,7 +160,7 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |RISK001| Käyttäjämäärän äkillinen lisääntyminen, esim poikkeustilanteen aikana | - | P1 |
-|RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen |  | P5 |
+|RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen | - | P5 |
 |RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | P3 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
@@ -171,17 +171,17 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|YVA0001| Palvelun täytyy toimia jokaisessa Androidin versiossa | Tekninen | "ASAP"-tuotantotiimi | Ulla | P5 | 
-|YVA0002| Palvelun täytyy toimia Windows Phonessa | toteutus |  "ASAP"-tuotantotiimi | Simo |  P5 | 
-|YVA0003| Nikke Kage tahtoo että palvelu toimii hänen mikroaaltouunillaan | toteutus |  "ASAP"-tuotantotiimi | Markku |  P1 |
+|YVA0001| Palvelun täytyy toimia jokaisessa Androidin versiossa | Tekninen | "ASAP"-tuotantotiimi | - | P5 | 
+|YVA0002| Palvelun täytyy toimia Windows Phonessa | toteutus |  "ASAP"-tuotantotiimi | - |  P5 | 
+|YVA0003| Nikke Kage tahtoo että palvelu toimii hänen mikroaaltouunillaan | toteutus |  "ASAP"-tuotantotiimi | - |  P1 |
 
 ## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | P1 |
-|VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
-|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
+|VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | - | P1 |
+|VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | - | P5 |
+|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen | - | "ASAP"-tuotantotiimi | P3 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
@@ -189,9 +189,9 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAL0201| Palvelun pitää skaalatua hetkellisesti 1000 käyttäjälle | Skaalautuvuus | "ASAP"-tuotantotiimi | P1 |
-|VAL0202| Palvelun saatavuus on oltava 99.1 % | Stabiilisuus |  "ASAP"-tuotantotiimi | P5 |
-|VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | P3 |
+|VAL0201| Palvelun pitää skaalatua hetkellisesti 1000 käyttäjälle | Skaalautuvuus | "ASAP"-tuotantotiimi | - | P1 |
+|VAL0202| Palvelun saatavuus on oltava 99.1 % | Stabiilisuus |  "ASAP"-tuotantotiimi | - | P5 |
+|VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | - | P3 |
 
   * P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
@@ -210,18 +210,10 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Luokkaehdokkaat (Class proposal)
 
-  * Yleensä osa tarkempaa suunnittelua
-  * Voidaan viitata linkeillä...
  
 ### Luokkamalli (Class Diagram)
 
-  * Ainoastaan karkea kuvaus tarpeen ?
-
-![](https://www.lucidchart.com/publicSegments/view/c680dd6c-6e68-43b7-bf6c-421bbe21a17c/image.png)
-
 ### Toiminta kuvaus (Sequence Diagram)
-
-  * Sekvenssikuvalla on aika kätevä esittää muutakin
 
 ### Sijoittelunäkymä (Deployment diagram
 
