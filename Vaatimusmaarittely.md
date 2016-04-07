@@ -121,10 +121,6 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ## Käyttötapaukset
 
-### Tärkeimmät käyttötapaukset kuvana
-
-![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
-
 ### Käyttötapaus 1
 
    * [Namujen antaminen](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-04:-Namunappi)
