@@ -65,8 +65,6 @@ Sidosryhmät
 * [Sidosryhmän sivu](https://github.com/Zpiralh/Sh1tCapsule/wiki/Sidosryhm%C3%A4)
 * PissCapsule Oy, Kilpailija
 
-Tunnistetut asiakasprofiilit 
-
 ## Asiakasprofiilit (Customer Profiles)
 
   * Asiakas 1, Jarno Purnu, 23, tradenomi, Muurame, Jyväskylä (Jätemies)
@@ -96,16 +94,6 @@ Tunnistetut asiakasprofiilit
 
 ![](http://student.labranet.jamk.fi/~K3297/Sidosryhma.png)
 
-## Yleinen palvelun asiakaspolku (General Customer Journey)
-
-# Asiakaspolkuja
-
- * [Asiakaspolku 1](https://camo.githubusercontent.com/5fab99752a5ab2744a158b7b26181016bcf87751/687474703a2f2f73747564656e742e6c616272616e65742e6a616d6b2e66692f2537454b323534332f7375756e6e697474656c752f6a616d7070615f626c75657072696e74746572696e6a6f2e706e67)
-  
- * [Asiakaspolku 2](https://camo.githubusercontent.com/19bdd0372d481e445024725ab5906865006794e4/687474703a2f2f73747564656e742e6c616272616e65742e6a616d6b2e66692f25374548393537362f4e616d756e617070692532302d2532304e657725323050616765253238312532392e706e67)
- 
- * [Asiakaspolku 3](https://camo.githubusercontent.com/599f8eae439209a801b1c0fde2056c1f11803ea0/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f35636565323031342d353364392d346434362d393630312d3735383166643965613863652f696d6167652e706e67)
-
 
 ## Palvelun osa-aluejako (Service Domain areas)
 
@@ -131,29 +119,29 @@ Palvelusta on saatavilla mobiili- ja web-versiot.
 
 ### Ominaisuus 1: Juomakupin veden vaihtaja
 
-![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-02:-Juomakupin-veden-vaihtaja)
+[Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-02:-Juomakupin-veden-vaihtaja)
 
 ### Ominaisuus 2: Namunappi
 
-![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-04:-Namunappi)
+[Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-04:-Namunappi)
 
 ### Ominaisuus 3: Capsulen valvonta
 
-![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-07:-Valvonta)
+[Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-07:-Valvonta)
 
 ### Ominaisuus 4: ShitAppin taustatoiminta
 
-![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-09:-Taustatoiminta)
+[Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-09:-Taustatoiminta)
 
 ### Ominaisuus 5: Lemmikin hyvinvointivalvonta
 
-![Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-08:-Lemmikin-hyvinvointivalvonta)
+[Linkki wikiin](https://github.com/Zpiralh/Sh1tCapsule/wiki/Ominaisuuskuvaus-08:-Lemmikin-hyvinvointivalvonta)
 
 ## Käyttötapaukset
 
 ### Tärkeimmät käyttötapaukset kuvana
 
-![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
+[](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
 
 ### Käyttötapaus 1
 
